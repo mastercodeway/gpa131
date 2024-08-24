@@ -1,0 +1,38 @@
+C:\Users\ricky\OneDrive\Skrivbord\skolarbete\TestingDynamik\bin\Debug\net7.0-windows\TestingDynamik.exe
+C:\Users\ricky\OneDrive\Skrivbord\skolarbete\TestingDynamik\bin\Debug\net7.0-windows\TestingDynamik.deps.json
+C:\Users\ricky\OneDrive\Skrivbord\skolarbete\TestingDynamik\bin\Debug\net7.0-windows\TestingDynamik.runtimeconfig.json
+C:\Users\ricky\OneDrive\Skrivbord\skolarbete\TestingDynamik\bin\Debug\net7.0-windows\TestingDynamik.dll
+C:\Users\ricky\OneDrive\Skrivbord\skolarbete\TestingDynamik\bin\Debug\net7.0-windows\TestingDynamik.pdb
+C:\Users\ricky\OneDrive\Skrivbord\skolarbete\TestingDynamik\obj\Debug\net7.0-windows\TestingDynamik.Form1.resources
+C:\Users\ricky\OneDrive\Skrivbord\skolarbete\TestingDynamik\obj\Debug\net7.0-windows\TestingDynamik.Form2.resources
+C:\Users\ricky\OneDrive\Skrivbord\skolarbete\TestingDynamik\obj\Debug\net7.0-windows\TestingDynamik.csproj.GenerateResource.cache
+C:\Users\ricky\OneDrive\Skrivbord\skolarbete\TestingDynamik\obj\Debug\net7.0-windows\TestingDynamik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricky\OneDrive\Skrivbord\skolarbete\TestingDynamik\obj\Debug\net7.0-windows\TestingDynamik.AssemblyInfoInputs.cache
+C:\Users\ricky\OneDrive\Skrivbord\skolarbete\TestingDynamik\obj\Debug\net7.0-windows\TestingDynamik.AssemblyInfo.cs
+C:\Users\ricky\OneDrive\Skrivbord\skolarbete\TestingDynamik\obj\Debug\net7.0-windows\TestingDynamik.csproj.CoreCompileInputs.cache
+C:\Users\ricky\OneDrive\Skrivbord\skolarbete\TestingDynamik\obj\Debug\net7.0-windows\TestingDynamik.dll
+C:\Users\ricky\OneDrive\Skrivbord\skolarbete\TestingDynamik\obj\Debug\net7.0-windows\refint\TestingDynamik.dll
+C:\Users\ricky\OneDrive\Skrivbord\skolarbete\TestingDynamik\obj\Debug\net7.0-windows\TestingDynamik.pdb
+C:\Users\ricky\OneDrive\Skrivbord\skolarbete\TestingDynamik\obj\Debug\net7.0-windows\TestingDynamik.genruntimeconfig.cache
+C:\Users\ricky\OneDrive\Skrivbord\skolarbete\TestingDynamik\obj\Debug\net7.0-windows\ref\TestingDynamik.dll
+C:\Users\ricky\OneDrive\Skrivbord\skolarbete\TestingDynamik\obj\Debug\net7.0-windows\TestingDynamik.RemoveProductForm.resources
+C:\Users\ricky\OneDrive\Skrivbord\skolarbete\TestingDynamik\obj\Debug\net7.0-windows\TestingDynamik.Properties.Resources.resources
+C:\Users\ricky\OneDrive\Desktop\Skolarbete\Grundläggande programmering\Ricky Nya Versionen Gpa131 Projekt arbete\Ricky Nya Versionen Gpa131 Projekt arbete\TestingDynamik\bin\Debug\net7.0-windows\TestingDynamik.exe
+C:\Users\ricky\OneDrive\Desktop\Skolarbete\Grundläggande programmering\Ricky Nya Versionen Gpa131 Projekt arbete\Ricky Nya Versionen Gpa131 Projekt arbete\TestingDynamik\bin\Debug\net7.0-windows\TestingDynamik.deps.json
+C:\Users\ricky\OneDrive\Desktop\Skolarbete\Grundläggande programmering\Ricky Nya Versionen Gpa131 Projekt arbete\Ricky Nya Versionen Gpa131 Projekt arbete\TestingDynamik\bin\Debug\net7.0-windows\TestingDynamik.runtimeconfig.json
+C:\Users\ricky\OneDrive\Desktop\Skolarbete\Grundläggande programmering\Ricky Nya Versionen Gpa131 Projekt arbete\Ricky Nya Versionen Gpa131 Projekt arbete\TestingDynamik\bin\Debug\net7.0-windows\TestingDynamik.dll
+C:\Users\ricky\OneDrive\Desktop\Skolarbete\Grundläggande programmering\Ricky Nya Versionen Gpa131 Projekt arbete\Ricky Nya Versionen Gpa131 Projekt arbete\TestingDynamik\bin\Debug\net7.0-windows\TestingDynamik.pdb
+C:\Users\ricky\OneDrive\Desktop\Skolarbete\Grundläggande programmering\Ricky Nya Versionen Gpa131 Projekt arbete\Ricky Nya Versionen Gpa131 Projekt arbete\TestingDynamik\obj\Debug\net7.0-windows\TestingDynamik.Form1.resources
+C:\Users\ricky\OneDrive\Desktop\Skolarbete\Grundläggande programmering\Ricky Nya Versionen Gpa131 Projekt arbete\Ricky Nya Versionen Gpa131 Projekt arbete\TestingDynamik\obj\Debug\net7.0-windows\TestingDynamik.Form2.resources
+C:\Users\ricky\OneDrive\Desktop\Skolarbete\Grundläggande programmering\Ricky Nya Versionen Gpa131 Projekt arbete\Ricky Nya Versionen Gpa131 Projekt arbete\TestingDynamik\obj\Debug\net7.0-windows\TestingDynamik.Properties.Resources.resources
+C:\Users\ricky\OneDrive\Desktop\Skolarbete\Grundläggande programmering\Ricky Nya Versionen Gpa131 Projekt arbete\Ricky Nya Versionen Gpa131 Projekt arbete\TestingDynamik\obj\Debug\net7.0-windows\TestingDynamik.RemoveProductForm.resources
+C:\Users\ricky\OneDrive\Desktop\Skolarbete\Grundläggande programmering\Ricky Nya Versionen Gpa131 Projekt arbete\Ricky Nya Versionen Gpa131 Projekt arbete\TestingDynamik\obj\Debug\net7.0-windows\TestingDynamik.csproj.GenerateResource.cache
+C:\Users\ricky\OneDrive\Desktop\Skolarbete\Grundläggande programmering\Ricky Nya Versionen Gpa131 Projekt arbete\Ricky Nya Versionen Gpa131 Projekt arbete\TestingDynamik\obj\Debug\net7.0-windows\TestingDynamik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricky\OneDrive\Desktop\Skolarbete\Grundläggande programmering\Ricky Nya Versionen Gpa131 Projekt arbete\Ricky Nya Versionen Gpa131 Projekt arbete\TestingDynamik\obj\Debug\net7.0-windows\TestingDynamik.AssemblyInfoInputs.cache
+C:\Users\ricky\OneDrive\Desktop\Skolarbete\Grundläggande programmering\Ricky Nya Versionen Gpa131 Projekt arbete\Ricky Nya Versionen Gpa131 Projekt arbete\TestingDynamik\obj\Debug\net7.0-windows\TestingDynamik.AssemblyInfo.cs
+C:\Users\ricky\OneDrive\Desktop\Skolarbete\Grundläggande programmering\Ricky Nya Versionen Gpa131 Projekt arbete\Ricky Nya Versionen Gpa131 Projekt arbete\TestingDynamik\obj\Debug\net7.0-windows\TestingDynamik.csproj.CoreCompileInputs.cache
+C:\Users\ricky\OneDrive\Desktop\Skolarbete\Grundläggande programmering\Ricky Nya Versionen Gpa131 Projekt arbete\Ricky Nya Versionen Gpa131 Projekt arbete\TestingDynamik\obj\Debug\net7.0-windows\TestingDynamik.dll
+C:\Users\ricky\OneDrive\Desktop\Skolarbete\Grundläggande programmering\Ricky Nya Versionen Gpa131 Projekt arbete\Ricky Nya Versionen Gpa131 Projekt arbete\TestingDynamik\obj\Debug\net7.0-windows\refint\TestingDynamik.dll
+C:\Users\ricky\OneDrive\Desktop\Skolarbete\Grundläggande programmering\Ricky Nya Versionen Gpa131 Projekt arbete\Ricky Nya Versionen Gpa131 Projekt arbete\TestingDynamik\obj\Debug\net7.0-windows\TestingDynamik.pdb
+C:\Users\ricky\OneDrive\Desktop\Skolarbete\Grundläggande programmering\Ricky Nya Versionen Gpa131 Projekt arbete\Ricky Nya Versionen Gpa131 Projekt arbete\TestingDynamik\obj\Debug\net7.0-windows\TestingDynamik.genruntimeconfig.cache
+C:\Users\ricky\OneDrive\Desktop\Skolarbete\Grundläggande programmering\Ricky Nya Versionen Gpa131 Projekt arbete\Ricky Nya Versionen Gpa131 Projekt arbete\TestingDynamik\obj\Debug\net7.0-windows\ref\TestingDynamik.dll

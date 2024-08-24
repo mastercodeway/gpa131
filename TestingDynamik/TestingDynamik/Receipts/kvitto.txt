@@ -1,0 +1,47 @@
+	-= Rickys storhandel =-	Trollhättan		2023-11-01
+
+---------------------------------------------
+
+Fläskfile			 106,4
+
+moms  			 12
+
+rabatt			-5,6
+
+
+
+Köttbullar			 50,4
+
+moms  			 6
+
+rabatt			-5,6
+
+
+
+Falukorv			 33,6
+
+moms  			 3,6
+
+rabatt			-0
+
+
+
+PrinsKorv			 89,6
+
+moms  			 9,6
+
+rabatt			-0
+
+
+
+---------------------------------------------
+
+Total			280 Kr
+
+
+
+Moms%	Moms	Netto	Brutto
+
+12	31,2	260	280
+
+
